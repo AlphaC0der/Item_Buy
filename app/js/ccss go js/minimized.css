@@ -1,6 +1,6 @@
 /* картинка на странице */
 .minimized {
-  width: 300px;
+  width: 500px;
   cursor: pointer;
   border: 1px solid #FFF;
 }
